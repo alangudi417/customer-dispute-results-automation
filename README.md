@@ -159,12 +159,15 @@ Key Benefits:
 ## ▶️ How to Run
 1. git clone https://github.com/alangudi417/customer-dispute-results-automation.git
 2. Open Dispute Results Generator.xlsm (Excel workbook where the VBA projects live)
-3. Run the Main macro.
+3. Update the file paths for:
+    - UDM_Dispute.xlsm (old folder)
+    - UDM_Dispute.xlsm (new folder)
+4. Run the Main macro.
     - Select:
-    - Previous week's UDM_Dispute
-    - Current week's UDM_Dispute
-    - Wait for the automation to:
-    - Compare dispute records
-    - Identify open and closed cases
-    - Generate Pivot Tables
-    - Produce the final weekly report
+        - Previous week's UDM_Dispute
+        - Current week's UDM_Dispute
+        - Wait for the automation to:
+        - Compare dispute records
+        - Identify open and closed cases
+        - Generate Pivot Tables
+        - Produce the final weekly report
