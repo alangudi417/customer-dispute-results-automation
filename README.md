@@ -132,7 +132,8 @@ F --> G
 ![Macro Execution](images/macro-execution.gif)
 
 ### Source Workbook
-![Source UDM_Dispute](images/input-open-udm-dispute.png)
+![Source UDM_Dispute Old](images/input-open-udm-dispute-old.png)
+![Source UDM_Dispute New](images/input-open-udm-dispute-new.png)
 
 ### Macro Worksheet Table Before Running Macro
 ![Macro Worksheet Before](images/macro-worksheet-before.png)
