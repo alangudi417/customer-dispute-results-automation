@@ -5,16 +5,9 @@ This VBA automation compares weekly customer dispute reports to identify newly c
 
 The macro automatically opens the latest and previous UDM_Dispute workbooks, matches dispute records using the Dispute Number (Case ID), determines the current status of each dispute, and produces management-ready summaries showing open and closed disputes by customer region, monetary value, and aging.
 
-By automating this weekly comparison, the solution eliminates repetitive manual reconciliation while providing faster and more reliable dispute performance reporting.
+By automating this weekly comparison, the solution eliminates repetitive manual reconciliation while providing faster and more reliable dispute performance reporting. 
 
-## 📂 Data Sources
-The automation processes two Excel workbooks (new and latest):
-
-    UDM_Dispute.xlsm
-
-    - This the primary dispute database containing customer and invoice information. 
-
-## 📋 Business Problem
+## 💼 Business Problem
 The dispute management team receives a new UDM_Dispute report every week containing all active customer disputes.
 To understand weekly performance, analysts must compare the current report against the previous week's report to determine:
 
@@ -35,6 +28,13 @@ Performing this comparison manually involved:
 - Preparing management reports
 
 As the dispute database grows, this process becomes increasingly time-consuming and susceptible to human error.
+
+## 📂 Data Sources
+The automation processes two Excel workbooks (new and latest):
+
+    UDM_Dispute.xlsm
+
+    - This the primary dispute database containing customer and invoice information.
 
 ## ⚙️ Automation Workflow
 The VBA macro automates the complete weekly comparison process<br>
