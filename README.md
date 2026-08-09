@@ -29,6 +29,75 @@ Performing this comparison manually involved:
 
 As the dispute database grows, this process becomes increasingly time-consuming and susceptible to human error.
 
+## ⚙️ Skills Developed
+
+#### 🛠️ Tools
+
+`Microsoft Excel` `VBA` `Excel Object Model` `Pivot Tables` `Dictionaries` `AutoFilter` `Git` `GitHub`
+
+#### VBA & Excel Automation
+
+- VBA Macro Development
+- Workbook & Worksheet Automation
+- Automated File Processing
+- Excel Object Model
+- Automated Pivot Table Generation
+- Pivot Table Refresh & Management
+- Automated Report Generation
+
+#### Data Processing & Reconciliation
+
+- Multi-Workbook Data Processing
+- Weekly Dataset Comparison
+- Data Matching & Reconciliation
+- Unique Identifier-Based Record Matching
+- Dispute Number / Case ID Matching
+- Data Classification
+- Data Validation
+- Automated Status Identification
+
+#### Time-Based Analysis
+
+- Week-over-Week Comparison
+- Historical Data Comparison
+- Four-Week Performance Analysis
+- Weekly Resolution Tracking
+- Aging Analysis
+- Open vs. Closed Dispute Analysis
+
+#### Reporting & Analytics
+
+- Pivot Table Reporting
+- Operational KPI Reporting
+- Dispute Volume Analysis
+- Disputed Value Analysis
+- Regional Performance Analysis
+- Resolution Performance Analysis
+- Aging Analysis
+- Management Reporting
+
+#### Process Automation
+
+- End-to-End Workflow Automation
+- Automated Data Reconciliation
+- Repetitive Task Automation
+- Standardized Weekly Reporting
+- Automated Report Refresh
+- Manual Effort Reduction
+- Human Error Reduction
+- Scalable Reporting Workflows
+
+#### Business Analysis
+
+- Customer Dispute Analysis
+- Dispute Resolution Analysis
+- Open vs. Closed Case Monitoring
+- Financial Exposure Analysis
+- Operational Performance Monitoring
+- Trend Analysis
+- Business Requirements Translation
+- Data-Driven Decision Support
+
 ## 📂 Data Sources
 The automation processes two Excel workbooks (new and latest):
 
@@ -92,18 +161,6 @@ Step 4 – Produce Final Report
 - Summarizes dispute aging
 - Produces management-ready reports
 - Eliminates manual reconciliation
-
-## 🛠️ Technologies Used
-- Microsoft Excel VBA
-- Excel Object Model
-- Workbook Automation
-- Worksheet Manipulation
-- Pivot Tables
-- Pivot Cache
-- VBA Dictionaries
-- Lookup & Matching Algorithms
-- Data Validation
-- Report Automation
 
 ## 📈 Workflow
 
